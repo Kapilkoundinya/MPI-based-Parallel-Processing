@@ -1,7 +1,8 @@
 # MPI-based-Parallel-Processing
-This repository contains MPI (C Language) based implementations targettef for parallel processing applications on the Extreme Cluster at University of Illinois at chicago and these include
+This repository contains MPI (C Language) implementations targeted for parallel processing applications on the Extreme Cluster at University of Illinois,Chicago
 
-### Point to Point Communication (Blocking and Non-Blocking)
-### Collective Communication (Blocking and Non-Blocking)
-### Virtual Topologies
-### Hybrid Parallelism
+Some of the implementations include
+##### Point to Point Communication (Blocking and Non-Blocking)
+##### Collective Communication (Blocking and Non-Blocking)
+##### Virtual Topologies
+##### Hybrid Parallelism
